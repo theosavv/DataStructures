@@ -1,7 +1,7 @@
 # Project Overview 🔎
 Prompted by The Data Structures University class, in this project , data structures like min and max Heap, Graph, AVL Tree and Hashtable, were implemented from scratch.
 
-# What we learned 💡
+# What I learned 💡
 This project was necessary to aquire deep knowledge about data structures and it was also a great way to transfer theoretical background into practice.
 
 # Technical info ⚙️
